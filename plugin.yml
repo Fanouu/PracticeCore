@@ -1,0 +1,5 @@
+name: PracticeCore
+author: Fanouu
+version: 1.0
+api: [3.0.0]
+main: Practice\Main
